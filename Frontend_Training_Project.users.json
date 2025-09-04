@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "68b9f5b7c36c0f3ebfe5a830"
+  },
+  "name": "Admin",
+  "email": "admin@eventx.com",
+  "password": "$2a$10$B1C2jfFnVvvW.98.PFMAoe5.sqn7nS8KYKd3vJVs5AJYWfSNqaYJC",
+  "role": "admin",
+  "age": 30,
+  "gender": "other",
+  "interests": [
+    "tech",
+    "music"
+  ],
+  "location": "Cairo",
+  "createdAt": {
+    "$date": "2025-09-04T20:25:27.858Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T20:25:27.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b9f5b7c36c0f3ebfe5a832"
+  },
+  "name": "User",
+  "email": "user@eventx.com",
+  "password": "$2a$10$aPJse8J0p88qGoWA0tJrmer1xGm/3aNIxai93KpWegxLZfrAzSD6.",
+  "role": "user",
+  "age": 24,
+  "gender": "male",
+  "interests": [
+    "music",
+    "sports"
+  ],
+  "location": "Giza",
+  "createdAt": {
+    "$date": "2025-09-04T20:25:27.932Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-04T20:25:27.932Z"
+  },
+  "__v": 0
+}]
