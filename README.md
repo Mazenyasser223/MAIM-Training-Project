@@ -16,7 +16,4 @@ Full‑stack Event Management System (React + Node.js + MongoDB) with Admin/User
 - Admin: admin@eventx.com / Admin123!
 - User : user@eventx.com  / User123!
 
-## Deploy
-- Frontend → Vercel/Netlify
-- Backend → Render/Heroku/Railway
-- DB → MongoDB Atlas
+
